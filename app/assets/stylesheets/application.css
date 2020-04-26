@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+
+.flash{
+	color: green
+}
+
+.notice{
+	margin: 30px;
+}
+
+body{
+	margin: 30px;
+}
+
+.show-title{
+	margin-left: 50px;
+}
+
+.show-body{
+	margin-left: 50px;
+}
+
+td{
+	max-width: 400px;
+	padding-left: 50px;
+}
+
+.new-table{
+	margin-left: 10px;
+}
